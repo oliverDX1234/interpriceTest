@@ -2,7 +2,7 @@
 
 ![Mockup](mockup.jpg)
 
-Create Vue component from [mockup.jpg](mockup.jpg) for displaying data from [data.json](data.json). Put the component in the public repository (Gilab, Github, Bitbucket).
+Create Vue component from [mockup.jpg](mockup.jpg) for displaying data from [data.json](interprice-test/src/data/data.json). Put the component in the public repository (Gilab, Github, Bitbucket).
 
 ### Features of the Component
 

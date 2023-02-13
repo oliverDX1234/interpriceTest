@@ -1,0 +1,6 @@
+export const UPDATE_CURRENCY = 'UPDATE_CURRENCY'
+export const UPDATE_YEARS = 'UPDATE_YEARS'
+export const SET_YEARS = 'SET_YEARS'
+export const SET_TYPE = 'SET_TYPE'
+export const SET_ALL_YEARS_ACTIVE = 'SET_ALL_YEARS_ACTIVE'
+export const SORT_YEARS = 'SORT_YEARS'

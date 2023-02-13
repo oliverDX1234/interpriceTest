@@ -1,0 +1,102 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+}
+
+.left-button {
+    border-radius: 5px 0 0 5px;
+}
+
+.central-button {
+    border-radius: 0
+}
+
+.right-button {
+    border-radius: 0 5px 5px 0;
+}
+
+.table-header {
+    font-weight: 200;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #777;
+}
+
+.table-year-header-subtitle {
+    color: #777;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-gray {
+    color: #777;
+}
+
+.text-dark-gray {
+    color: #555;
+}
+
+.bg-yellow {
+    background: #F4F2D9;
+}
+
+.filtering-options .btn-primary{
+    background: #527094;
+    color: white;
+}
+.filtering-options .btn-outline-primary{
+    background: white;
+    color: #527094;
+}
+.filtering-options button{
+    border: 1px solid #527094;
+}
+
+.filtering-options button:hover{
+    border: 1px solid #527094 !important;
+}
+
+.filtering-options button:active{
+    background: #527094 !important;
+    border: 1px solid #527094 !important;
+}
+
+.icon-bold{
+    -webkit-text-stroke: 2px;
+}
+.financial-table tbody tr:last-child {
+    border: 1px solid black;
+}
+
+.financial-table tbody tr:nth-last-child(2) {
+    border-bottom: 1px solid black;
+}
+
+.scrollable {
+    overflow: hidden;
+    overflow-x: auto;
+    min-width: 600px;
+}
+
+.datatable tbody tr td:first-child{
+    max-width: 50px !important;
+}
+
+.datatable tbody tr td:nth-child(2),
+.datatable tbody tr td:nth-child(3){
+    text-align: left;
+}
+
+.datatable thead tr th:nth-child(2),
+.datatable thead tr th:nth-child(3){
+    text-align: left;
+    white-space: nowrap;
+}
